@@ -1,1 +1,1 @@
-# ChemBioML-Platform-OS
+# ChemBioML Platform OS
